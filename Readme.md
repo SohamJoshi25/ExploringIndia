@@ -1,4 +1,4 @@
-### First Ever SSR Project using Express shwocasing beauty of India and its rich culture
+### First Ever SSR Project using Express showcasing beauty of India and its rich culture.
 
 <table>
   <tr>
